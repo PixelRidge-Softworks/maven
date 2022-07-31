@@ -3,10 +3,11 @@
   <groupId>me.experimental</groupId>
   <artifactId>PixelatedUtils</artifactId>
   <versioning>
-    <release>1.0</release>
+    <release>1.0.2-SPLASH-UPDATE</release>
     <versions>
       <version>1.0</version>
+      <version>1.0.2-SPLASH-UPDATE</version>
     </versions>
-    <lastUpdated>20220710014509</lastUpdated>
+    <lastUpdated>20220731021432</lastUpdated>
   </versioning>
 </metadata>
